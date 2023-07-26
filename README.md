@@ -1,2 +1,2 @@
-# PHP.ATV1
-curso_php ofertado pelo juventude digital de iniciação na linguagem php;    
+# JUV.DIGITAL <3
+curso de iniciação na linguagem PHP ofertado pelo juventude digital;    
